@@ -5,6 +5,6 @@
  - Learn to use OpenAI Gym
 
 ## Libs and Algorithms
-OpenAI Gym, Numpy, Q-Learning
+- OpenAI Gym, Numpy, Q-Learning
 
 
